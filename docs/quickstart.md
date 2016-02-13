@@ -12,7 +12,7 @@ required for Discogs API requests, as it identifies your application to the
 Discogs servers.
 
 There are more parameters the `Client` class accepts on instantiation; please
-refer to the `Authorization` file for more details.
+refer to the `Authentication` file for more details.
 
 Once instantiated, you can either start making requests to endpoints that do not
 require authentication, or you can authenticate and make requests to a wider
